@@ -1,0 +1,7 @@
+                                                 BODMAS IN PYTHON
+1)EXPONENTS FIRST(**) 
+2)DIVISION(/)
+3)MODULOUS(%)
+4)MUTIPLICATION(*)
+5)ADDITION(+)
+6)SUBTRACTION(-)
